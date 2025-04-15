@@ -1,3 +1,4 @@
 .env
 .idea
 app/poetry.lock
+**/__pycache__
